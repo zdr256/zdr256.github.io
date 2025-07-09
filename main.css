@@ -21,8 +21,8 @@ h1, p {
 }
 
 .globe {
-    width: 200px;
-    height: 200px;
+    width: 150px; /* Adjusted width for mobile */
+    height: 150px; /* Adjusted height for mobile */
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Earth_%28NASA%29.jpg/640px-Earth_%28NASA%29.jpg'); /* Globe image with land */
     background-size: cover;
     border-radius: 50%;
@@ -41,7 +41,7 @@ h1, p {
 
 /* New styles for links */
 a {
-    color: #FFFFFF; /* Link color */
+    color: #FFD700; /* Light yellow color for links */
     text-decoration: none; /* Remove underline */
     white-space: nowrap; /* Prevent wrapping */
     overflow: hidden; /* Hide overflow */
@@ -49,4 +49,16 @@ a {
     display: inline-block; /* Allow width to be set */
     max-width: 200px; /* Set a maximum width */
     margin: 5px; /* Add some margin */
+}
+
+a:hover {
+    color: #FFEA00; /* Slightly brighter yellow on hover */
+}
+
+/* Media query for mobile devices */
+@media (max-width: 600px) {
+    .globe {
+        width: 100px; /* Smaller globe for mobile */
+        height: 100px; /* Smaller globe for mobile */
+    }
 }
