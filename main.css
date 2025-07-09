@@ -38,3 +38,15 @@ h1, p {
         transform: rotateY(360deg);
     }
 }
+
+/* New styles for links */
+a {
+    color: #FFFFFF; /* Link color */
+    text-decoration: none; /* Remove underline */
+    white-space: nowrap; /* Prevent wrapping */
+    overflow: hidden; /* Hide overflow */
+    text-overflow: ellipsis; /* Add ellipsis for overflow text */
+    display: inline-block; /* Allow width to be set */
+    max-width: 200px; /* Set a maximum width */
+    margin: 5px; /* Add some margin */
+}
