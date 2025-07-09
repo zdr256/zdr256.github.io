@@ -23,8 +23,7 @@ h1, p {
 .globe {
     width: 200px;
     height: 200px;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Blue_Marble_2002.png/640px-Blue_Marble_2002.png');
-    background-size: cover;
+    background-color: #007BFF; /* Solid color for testing (blue) */
     border-radius: 50%;
     animation: spin 10s linear infinite;
     transform-style: preserve-3d; /* Ensure 3D transformations are preserved */
