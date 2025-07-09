@@ -1,14 +1,23 @@
 body {
     display: flex;
+    flex-direction: column; /* Allow stacking of text and globe */
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
     background-color: #87CEEB; /* Light blue background */
+    color: #FFFFFF; /* Default text color to white */
+    font-family: Arial, sans-serif; /* Set a default font */
+}
+
+h1, p {
+    color: #FFFFFF; /* Light color for headings and paragraphs */
+    text-align: center; /* Center text */
 }
 
 .globe-container {
     perspective: 1000px;
+    margin-top: 20px; /* Add some space between text and globe */
 }
 
 .globe {
