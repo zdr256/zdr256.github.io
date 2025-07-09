@@ -23,7 +23,7 @@ h1, p {
 .globe {
     width: 200px;
     height: 200px;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Blue_Marble_2002.png/640px-Blue_Marble_2002.png'); /* Globe image with land */
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Earth_%28NASA%29.jpg/640px-Earth_%28NASA%29.jpg'); /* Globe image with land */
     background-size: cover;
     border-radius: 50%;
     animation: spin 10s linear infinite;
