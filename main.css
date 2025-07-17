@@ -15,6 +15,8 @@ h1, p {
     text-align: center; /* Center text */
 }
 
+
+
 .globe-container {
     perspective: 1000px;
     margin-top: 20px; /* Add some space between text and globe */
@@ -61,4 +63,27 @@ a:hover {
         width: 100px; /* Smaller globe for mobile */
         height: 100px; /* Smaller globe for mobile */
     }
+}
+
+
+ .circle-icon {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 20px;
+}
+.circle-icon img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.circle-icon:hover {
+    background-color: #0056b3;
 }
