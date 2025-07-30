@@ -1,3 +1,10 @@
 https://jokupelle.itch.io/ages-of-conflict/devlog/997715/v411-small-fixes
 https://cpeditor.org/download/
 https://ves2718.itch.io/
+https://codeit.bg/bul/rounds/standings/112
+https://www.emag.bg/label/Genius-Deals-21-27-07-2025-Genius-Deals-Sda?ref_label_campaign=genius-deals-21-27-07-2025_malki-elektrouredi
+https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2025/05/Raspberry-Pi-Pico-2-Pinout.jpg?quality=100&strip=all&ssl=1
+https://cpeditor.org/download/
+https://jokupelle.itch.io/ages-of-conflict/devlog/997715/v411-small-fixes
+https://ioi2025.bo/schedule
+https://docs.google.com/forms/d/e/1FAIpQLSch7sYuL7V6y2MS-tUKymWH33y6xDKbd75-fPJPde0Ln4H-YQ/viewform?usp=preview
