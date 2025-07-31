@@ -8,3 +8,6 @@ https://cpeditor.org/download/
 https://jokupelle.itch.io/ages-of-conflict/devlog/997715/v411-small-fixes
 https://ioi2025.bo/schedule
 https://docs.google.com/forms/d/e/1FAIpQLSch7sYuL7V6y2MS-tUKymWH33y6xDKbd75-fPJPde0Ln4H-YQ/viewform?usp=preview
+https://www.vali.bg/
+https://zdr256.github.io/books/new.txt
+https://duckduckgo.com/?ia=chat
